@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+#btn{
+     cursor: pointer;
+     padding: 15px 35px;
+     border: 1px solid blue;
+     background-color: blue;
+     color: #fff;
+     font-size: 14px;
+     margin-left: 700px;
+}
+#output{
+    margin-top: 45px;
+    background-color: lawngreen;
+    width: 100px;
+    margin: 100px auto 100px;
+}
+input{
+    width: 350px;
+    height: 40px;
+    display: block;
+    margin: 100px auto 100px;
+}
+h1{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 35px;
+    font-weight: 600;
+}
